@@ -1,0 +1,17 @@
+{
+  "name": "angularapp",
+  "version": "1.0.0",
+  "description": "build with anugulaJs, AngularApp building",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "angularapp",
+    "angularJs",
+    "application",
+    "build"
+  ],
+  "author": "Faruk Ahmed Any",
+  "license": "AGPL-3.0"
+}
