@@ -87,8 +87,6 @@ export class AppComponent implements OnInit {
     this.selectedHero = hero;
   }
 }
-
-
 /*
 Copyright 2017 Google Inc. All Rights Reserved.
 Use of this source code is governed by an MIT-style license that
