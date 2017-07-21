@@ -7,6 +7,7 @@ Screen of the app
 1. Install angular-cli on globally 
 2. `git clone https://github.com/SPurno/angular-app.git`
 3. Change working directory to `cd angular-app && cd angularapp`.
+4. Install all packages `npm install`
 4. Hit the command on terminal `ng serve`.
 
 ## Development server
